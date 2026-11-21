@@ -1,0 +1,6 @@
+{
+  "name": "Odometra — GPS Distance & Speed Tracker",
+  "description": "Real-time GPS distance calculator, speedometer, average speed monitor, and daily total distance log with live route mapping.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
